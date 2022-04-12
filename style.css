@@ -6,41 +6,16 @@
 .leftside {
   background-color: #f7fafc;
 }
-.log {
-  float: left;
-  margin-top: 32px;
-  margin-left: 10px;
-  position: relative;
-  width: 171px;
-  height: 35px;
-}
-.sha {
-  width: 80%;
-  height: 80%;
-  margin-left: 65px;
-  margin-top: 1px;
-}
 
-/*.db {
-  font-size: larger;
-  position: absolute;
-  column-span: 30;
-}
-.al {
-  font-size: smaller;
-  position: absolute;
-  align-content: center;
-}
-.ca {
-  font-size: 100%;
-  text-indent: 500%;
-}*/
 .mc {
   position: absolute;
   top: 29%;
   right: 37%;
 }
-
+.ds {
+  font-weight: 700;
+  color: #353535;
+}
 .handImg {
   height: 30px;
   width: 25px;
@@ -72,4 +47,72 @@ input,
 }
 .mx-2 {
   width: 110px;
+}
+* {
+  font-family: "Montserrat";
+}
+.ya {
+  font-size: 19px;
+  font-weight: 600;
+}
+.wel {
+  font-size: 18px;
+  color: #27272e;
+  font-weight: 600;
+}
+.le {
+  font-size: 10px;
+  color: #27272e;
+  font-weight: 400;
+  margin-top: -10px;
+}
+.ma {
+  font-size: 10px;
+  color: #425466;
+  font-weight: 500;
+  padding-bottom: 1px;
+}
+.pi {
+  padding: unset;
+  color: #787878;
+  position: relative;
+}
+.em {
+  font-size: 10px;
+  border-color: #edf2f7;
+  font-weight: 500;
+}
+.pm {
+  font-size: 10px;
+  color: #425466;
+  font-weight: 500;
+}
+.pw {
+  font-size: 10px;
+  color: #7a828a;
+  border-color: #edf2f7;
+  font-weight: 500;
+}
+.mu {
+  font-size: 8px;
+  color: #7a7a9d;
+  font-weight: 400;
+}
+.si {
+  font-size: 10px;
+  font-weight: 600;
+  background-color: #53b9ea;
+}
+.lo {
+  font-size: 9px;
+  color: #7a7a9d;
+  font-weight: 600;
+  padding-top: 7px;
+}
+.tm {
+  color: #7a7a9d;
+  font-size: 9px;
+  font-weight: 600;
+  margin-inline-end: 130px;
+  margin-top: 158px;
 }
