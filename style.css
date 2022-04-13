@@ -52,8 +52,9 @@ input,
   font-family: "Montserrat";
 }
 .ya {
-  font-size: 19px;
+  font-size: 17px;
   font-weight: 600;
+  color: #32403b;
 }
 .wel {
   font-size: 18px;
@@ -62,13 +63,13 @@ input,
 }
 .le {
   font-size: 10px;
-  color: #27272e;
-  font-weight: 400;
+  color: #27272e !important;
+  font-weight: 500;
   margin-top: -10px;
 }
 .ma {
-  font-size: 10px;
-  color: #425466;
+  font-size: 9px;
+  color: #425466 !important;
   font-weight: 500;
   padding-bottom: 1px;
 }
@@ -83,7 +84,7 @@ input,
   font-weight: 500;
 }
 .pm {
-  font-size: 10px;
+  font-size: 9px;
   color: #425466;
   font-weight: 500;
 }
@@ -94,7 +95,7 @@ input,
   font-weight: 500;
 }
 .mu {
-  font-size: 8px;
+  font-size: 7px;
   color: #7a7a9d;
   font-weight: 400;
 }
@@ -102,6 +103,8 @@ input,
   font-size: 10px;
   font-weight: 600;
   background-color: #53b9ea;
+  height: 32px;
+  width: 300px;
 }
 .lo {
   font-size: 9px;
@@ -115,4 +118,14 @@ input,
   font-weight: 600;
   margin-inline-end: 130px;
   margin-top: 158px;
+}
+.nt {
+  left: 40px;
+}
+.mn {
+  margin-bottom: -8px;
+  width: 300px;
+}
+.my {
+  width: 300px;
 }
